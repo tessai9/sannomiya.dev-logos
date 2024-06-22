@@ -1,6 +1,6 @@
 # Logo for 三宮.dev
 
-![ロゴ](img/logo_color.svg)
+<img src="img/logo_color.svg" width=200 />
 
 A repository for managing Logo images for [三宮.dev](https://sannomiya.dev).
 
